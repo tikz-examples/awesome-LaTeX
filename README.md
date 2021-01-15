@@ -199,6 +199,7 @@ PSTricks is a great library to draw figures for inclusion in PostScript/DVI file
 TikZ is an awesome package with many plugins that allow you to create figures from within your LaTeX documents.
 Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
+- [TikZBlog](http://latexdraw.com/) - Blog about drawing in LaTeX using TikZ and related packages such as: Pgfplots, CircuiTikZ and PGF-Pie. It provides step by step tutorials with ready code to use.
 - [TeXample](http://www.texample.net) - Blog about LaTeX, with a big collection of TikZ figures.
 - [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-) - Useful website with some custom packages to draw special plots (Bode, Nyquist, electrical schematics, block schematics, ...) using TikZ. Note that everything is in French.
 - [tkz](http://altermundus.com/pages/tkz/index.html) - Collection of TikZ-based packages to make plots and graphs.
